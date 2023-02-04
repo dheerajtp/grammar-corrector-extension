@@ -10,4 +10,4 @@ I integrated Open AI with Node.js and created a browser extension using React.JS
 
 ## Optimizations
 
-Integrate an API call in React JS using the React Query package and create a proper folder structure for better usage.
+I integrated an API call in React JS using the React Query package and created a proper folder structure for better usability.
